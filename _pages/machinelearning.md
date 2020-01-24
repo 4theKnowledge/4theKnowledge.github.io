@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /projects/
-title: "Projects by Tag"
+permalink: /machine-learning/
+title: "Machine Learning by Tag"
 author_profile: true
 header:
     image: "/images/banner.png"
